@@ -8,7 +8,7 @@ The objective of this task is to **provision a local Docker container using Terr
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tools & Technologies :
 - **Terraform**
 - **Docker**
 - **VS Code / Terminal**
