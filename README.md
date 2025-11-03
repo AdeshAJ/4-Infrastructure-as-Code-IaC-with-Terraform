@@ -15,7 +15,7 @@ The objective of this task is to **provision a local Docker container using Terr
 
 ---
 
-## 🏗️ Project Overview
+## 🏗️ Project Overview :
 In this project, Terraform is used to:
 1. Pull the latest **Nginx** Docker image.
 2. Create and run a **Docker container** using that image.
